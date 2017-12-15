@@ -1,10 +1,18 @@
 body{
   font-family: 'Nunito', sans-serif;
 }
+ 
 .App {
   text-align: center;
 }
-
+.thumbnail{
+  padding: 1rem;
+}
+.card{
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+ 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 80px;
